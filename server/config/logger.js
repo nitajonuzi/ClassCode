@@ -1,6 +1,5 @@
 var winston = require('winston');
 var fs = require('fs');
-
 var env = process.env.NODE_ENV || 'development';
 var logDir = 'log';
 

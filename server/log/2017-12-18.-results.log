@@ -1,0 +1,73 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T22:58:03.985Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T22:58:04.289Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-18T22:58:04.298Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T22:58:04.325Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:23.917Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T22:58:23.942Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:28.811Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:28.952Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T22:58:28.953Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:35.826Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:35.904Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:42.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:58:53.841Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:00.594Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a25e884ad817b2fa020c473","timestamp":"2017-12-18T22:59:00.595Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:13.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:13.689Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T22:59:13.690Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:26.125Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-18T22:59:26.126Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:33.599Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a38484e7779d73898ec72eb","timestamp":"2017-12-18T22:59:33.600Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:38.807Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a38484e7779d73898ec72eb","timestamp":"2017-12-18T22:59:38.808Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:54.256Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-18T22:59:54.257Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T22:59:58.142Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a38486a7779d73898ec72ec","timestamp":"2017-12-18T22:59:58.143Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:00:03.625Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:08:04.376Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T23:08:51.260Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T23:08:51.441Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-18T23:08:51.450Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T23:08:51.473Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:08:57.212Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:09:04.348Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:09:07.450Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:11:51.358Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T23:11:51.360Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:12:13.391Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T23:12:13.392Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:13:10.749Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T23:13:10.750Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:13:34.392Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T23:13:34.392Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T23:14:12.180Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T23:14:12.362Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-18T23:14:12.370Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T23:14:12.392Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:14:26.831Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:29.958Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:29.976Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:29.984Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:30.319Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:30.356Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:37.084Z"}
+{"level":"error","message":"Error: Cannot find module '../encodings'\n    at Function.Module._resolveFilename (module.js:469:15)\n    at Function.Module._load (module.js:417:25)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.getCodec (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:65:27)\n    at Object.getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:122:23)\n    at getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:45:18)\n    at readStream (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:180:15)\n    at getRawBody (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:108:12)\n    at read (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\types\\json.js:134:5)\n    at Layer.handle [as handle_request] (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-18T23:15:37.089Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:15:43.575Z"}
+{"level":"error","message":"Error: Cannot find module '../encodings'\n    at Function.Module._resolveFilename (module.js:469:15)\n    at Function.Module._load (module.js:417:25)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.getCodec (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:65:27)\n    at Object.getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:122:23)\n    at getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:45:18)\n    at readStream (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:180:15)\n    at getRawBody (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:108:12)\n    at read (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\types\\json.js:134:5)\n    at Layer.handle [as handle_request] (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-18T23:15:43.577Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:16:01.534Z"}
+{"level":"error","message":"Error: Cannot find module '../encodings'\n    at Function.Module._resolveFilename (module.js:469:15)\n    at Function.Module._load (module.js:417:25)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.getCodec (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:65:27)\n    at Object.getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\iconv-lite\\lib\\index.js:122:23)\n    at getDecoder (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:45:18)\n    at readStream (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:180:15)\n    at getRawBody (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\raw-body\\index.js:108:12)\n    at read (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\body-parser\\lib\\types\\json.js:134:5)\n    at Layer.handle [as handle_request] (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\nnjon\\Desktop\\ClassCode\\server\\node_modules\\express\\lib\\router\\index.js:275:10)","timestamp":"2017-12-18T23:16:01.535Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T23:17:58.511Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T23:17:58.676Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-18T23:17:58.685Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T23:17:58.707Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:05.310Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:05.329Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:05.338Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:05.642Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:05.657Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:09.857Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T23:18:10.024Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-18T23:18:10.025Z"}
